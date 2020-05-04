@@ -42,3 +42,9 @@ The above figure gives the best summary of results. It provides a view of 4 topi
 - ‘MERS Vaccine Candidate Offers Promise, but Questions Remain’
 
 By looking at the titles of the research paper you can make out there are similarities between the research papers.
+
+### References
+- https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
+- https://www.kaggle.com/vukglisovic/classification-combining-lda-and-word2vec
+- http://videolectures.net/mlss09uk_blei_tm/
+- Data Source: https://www.semanticscholar.org/cord19/download

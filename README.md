@@ -70,7 +70,7 @@ https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-direct
 
 ### Interpretation of Results
 A detailed explanation of the results is available in the post here:
-
+https://medium.com/@nikhilnarayan.11/extracting-insights-from-covid-19-research-papers-2ddcded0cd33
 
 ### References
 - https://www.kaggle.com/vukglisovic/classification-combining-lda-and-word2vec

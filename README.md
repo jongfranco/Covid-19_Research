@@ -1,6 +1,8 @@
 # Covid-19_Research
 Analysis of Covid-19 research papers using NLP
 
+## Part 1: Unsupervised learning using LDA.
+
 I used Google's Colab to put together this Jupyter Notebook. I have a separate Notebook for data cleanup which I will commit later.
 
 ### Motivation for this project:
@@ -41,10 +43,33 @@ The above figure gives the best summary of results. It provides a view of 4 topi
 - ‘A Case Report of a Middle East Respiratory Syndrome Survivor with Kidney Biopsy Results’, ‘
 - ‘MERS Vaccine Candidate Offers Promise, but Questions Remain’
 
-By looking at the titles of the research paper you can make out there are similarities between the research papers.
+By looking at the titles of the research paper you can make out there are similarities between the research papers. The results from this analysis is articulated in a post here:
+- https://medium.com/@nikhilnarayan.11/unsupervised-learning-on-covid-19-research-papers-using-lda-7011d8a1411b
 
 ### References
 - https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
 - https://www.kaggle.com/vukglisovic/classification-combining-lda-and-word2vec
 - http://videolectures.net/mlss09uk_blei_tm/
 - Data Source: https://www.semanticscholar.org/cord19/download
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+## Part 2: Extracting insights from Covid-19 Research Papers
+
+### Files in the repository:
+Besides the research papers data mentioned above, I have used NDC drug data to create a list of drug names that I want to search in the research papers. NDC drug database is available here:
+https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory
+
+#### Sections in the Jupyter Notebook:
+- Research Paper data: set of activities that help me filter out Covid-19 related research papers.
+- NDC drug data clean up: set of activities to clean up drug data, extract Non-proprietary name and add a few missing drug names.
+- Research Data - Add matching Drug data: set of activities to identify occurrence of drug names in the research paper.
+- Analyze Drug Data - Extract meaningful insights through analysis.
+
+### Interpretation of Results
+A detailed explanation of the results is available in the post here:
+
+
+### References
+- https://www.kaggle.com/vukglisovic/classification-combining-lda-and-word2vec
+

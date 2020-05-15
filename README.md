@@ -57,6 +57,8 @@ By looking at the titles of the research paper you can make out there are simila
 ## Part 2: Extracting insights from Covid-19 Research Papers
 
 ### Files in the repository:
+Jupyter Notebook: Covid_19_Research_Part_2.ipynb
+
 Besides the research papers data mentioned above, I have used NDC drug data to create a list of drug names that I want to search in the research papers. NDC drug database is available here:
 https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory
 

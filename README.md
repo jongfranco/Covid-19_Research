@@ -56,6 +56,9 @@ By looking at the titles of the research paper you can make out there are simila
 
 ## Part 2: Extracting insights from Covid-19 Research Papers
 
+![GitHub Logo](/word_cloud.png)
+
+
 ### Files in the repository:
 Jupyter Notebook: Covid_19_Research_Part_2.ipynb
 

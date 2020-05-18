@@ -44,7 +44,7 @@ The above figure gives the best summary of results. It provides a view of 4 topi
 - ‘MERS Vaccine Candidate Offers Promise, but Questions Remain’
 
 By looking at the titles of the research paper you can make out there are similarities between the research papers. The results from this analysis is articulated in a post here:
-- https://medium.com/@nikhilnarayan.11/unsupervised-learning-on-covid-19-research-papers-using-lda-7011d8a1411b
+ - https://medium.com/@nikhilnarayan.11/unsupervised-learning-on-covid-19-research-papers-using-lda-7011d8a1411b?source=friends_link&sk=9924d211fbfc4773706989197609e073
 
 ### References
 - https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
@@ -73,7 +73,7 @@ https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-direct
 
 ### Interpretation of Results
 A detailed explanation of the results is available in the post here:
-https://medium.com/@nikhilnarayan.11/extracting-insights-from-covid-19-research-papers-2ddcded0cd33
+- https://medium.com/@nikhilnarayan.11/extracting-insights-from-covid-19-research-papers-2ddcded0cd33?source=friends_link&sk=cb60b6af74c99159a4258de5426330e7
 
 ### References
 - https://www.kaggle.com/vukglisovic/classification-combining-lda-and-word2vec
